@@ -1,5 +1,3 @@
-from typing import List
-
 
 def mutate_string(string, position, character):
     string_list=list(string)
