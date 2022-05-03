@@ -5,7 +5,6 @@ def solve(s):
     return s
 
 s=input()
-print(s.capitalize())
 x=solve(s)
 
 print(x)
