@@ -1,21 +1,23 @@
-from configparser import InterpolationError
-from msilib.schema import Error
 
 
-def exceptions_handling(a,b):
+def exceptions_handling():
     try:
-        x=a/b
+        a,b=map(int,input().split())
+        x=a//b
+        print((x))
 
     except ZeroDivisionError as e:
-        print(f"Error Code: {e.args}")
+    
+        print(f"Error Code: {e}")
+
     except ValueError as e:
-        print(f"Error Code: {e.args}")
+        print(f"Error Code: {e}")
 
 
 
 n=int(input())
 for i in range(n):
     
-    a,b=map(int,input().split())
+    
 
-    exceptions_handling(a,b)
+    exceptions_handling()
