@@ -3,3 +3,6 @@ You are given n words. Some words may repeat. For each word, output its number o
 Note: Each input line ends with a "\n" character.
 
 sample
+
+
+as
