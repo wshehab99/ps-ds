@@ -4,5 +4,3 @@ Note: Each input line ends with a "\n" character.
 
 sample
 
-
-as
