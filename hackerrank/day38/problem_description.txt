@@ -13,6 +13,7 @@ Using the update() function:
 # update() only works for iterable objects
 
 REMOVING ITEMS :
+-
 
 Both the discard() and remove() functions take a single value as an argument and removes that value from the set. If that value is not present, discard() does nothing, but remove() will raise a KeyError exception.
 
