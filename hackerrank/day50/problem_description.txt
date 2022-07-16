@@ -1,13 +1,10 @@
 Input Format
 
-The input consists of three lines.
-The first line contains the integer N, denoting the length of the list. 
-The next line consists of N space-separated lowercase English letters, denoting the elements of the list.
-The third and the last line of input contains the integer K, denoting the number of indices to be selected.
+The first line contains 2 space separated integers K and M.
+The next K lines each contains an integer N, denoting the number of elements in the i list, 
+followed by N[i] space separated integers denoting the elements in the list.
 
 
 Output Format
 
-Output a single line consisting of the probability that at least one of the K indices selected contains the letter:'a'.
-
-Note: The answer must be correct up to 3 decimal places.
+Output a single integer denoting the value S max.

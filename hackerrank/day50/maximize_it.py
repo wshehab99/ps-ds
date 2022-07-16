@@ -13,6 +13,7 @@ def max_it(k,m):
     result=max(results)
     print(result)
 K,M=map(int,input().split())
+print("I Love python")
 max_it(K,M)
 
 
