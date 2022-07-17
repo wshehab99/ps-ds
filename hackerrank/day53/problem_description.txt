@@ -1,0 +1,2 @@
+Task
+Read four numbers, a, b, c, and d, and print the result of a**b+a**d 
