@@ -1,0 +1,14 @@
+You are given N lines of CSS code. Your task is to print all valid Hex Color Codes, in order of their occurrence from top to bottom.
+
+CSS Code Pattern
+
+
+Input Format
+
+The first line contains N, the number of code lines.
+The next N lines contains CSS Codes.
+
+
+Output Format
+
+Output the color codes with '#' symbols on separate lines.
