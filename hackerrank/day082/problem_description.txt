@@ -1,0 +1,16 @@
+You are given a text of N lines. The text contains && and || symbols.
+Your task is to modify those symbols to the following:
+
+&& → and
+|| → or
+
+
+Input Format
+
+The first line contains the integer,N .
+The next N lines each contain a line of the text.
+
+
+Output Format
+
+Output the modified text.
