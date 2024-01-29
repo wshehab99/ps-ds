@@ -1,0 +1,11 @@
+Task
+
+Perform append, pop, popleft and appendleft methods on an empty deque d.
+
+
+Input Format
+
+The first line contains an integer N, the number of operations.
+The next N lines contains the space separated names of methods and their values.
+
+
