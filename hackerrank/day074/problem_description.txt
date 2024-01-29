@@ -1,9 +1,0 @@
-Input Format
-
-The first line contains an integer T, the number of test cases.
-The next T line(s) contains a string N.
-
-
-Output Format
-
-Output True or False for each test case.

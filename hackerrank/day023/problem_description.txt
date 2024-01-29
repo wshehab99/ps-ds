@@ -1,7 +1,0 @@
-Polar coordinates are an alternative way of representing Cartesian coordinates or Complex Numbers.
-z = x + yj
-is completely determined by its real part x and imaginary part y.
-Here, j is the imaginary unit.
-
-Task
-You are given a complex Z. Your task is to convert it to polar coordinates.

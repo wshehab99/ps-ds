@@ -1,0 +1,10 @@
+Input Format
+
+The first line contains 2 space separated integers K and M.
+The next K lines each contains an integer N, denoting the number of elements in the i list, 
+followed by N[i] space separated integers denoting the elements in the list.
+
+
+Output Format
+
+Output a single integer denoting the value S max.

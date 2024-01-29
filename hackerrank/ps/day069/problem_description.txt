@@ -1,0 +1,10 @@
+Input Format
+
+The first line contains N and M separated by a space.
+The next N lines each contain M elements.
+The last line contains K.
+
+
+Output Format
+
+Print the N lines of the sorted table. Each line should contain the space separated elements. Check the sample below for clarity.

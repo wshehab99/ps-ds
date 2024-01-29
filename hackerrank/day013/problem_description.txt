@@ -1,6 +1,0 @@
-Given an integer n, , print the following values for each integer i from  to n:
-
-    Decimal
-    Octal
-    Hexadecimal (capitalized)
-    Binary
