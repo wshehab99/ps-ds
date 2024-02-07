@@ -1,19 +1,16 @@
-Complete the function solveMeFirst to compute the sum of two integers.
+Given an array of integers, find the sum of its elements.
 
-Example
-a = 7
-b = 3
-
-Return 10.
+For example, if the array ar = [1,2,3],1+2+3 = 6 , so return 6.
 
 Function Description
 
-Complete the solveMeFirst function in the editor below.
+Complete the simpleArraySum function in the editor below. It must return the sum of the array elements as an integer.
 
-solveMeFirst has the following parameters:
+simpleArraySum has the following parameter(s):
 
-int a: the first value
-int b: the second value
+    -ar: an array of integers
 
-Returns
-- int: the sum of a and b
+Input Format
+
+The first line contains an integer,n , denoting the size of the array.
+The second line contains n space-separated integers representing the array's elements
