@@ -1,0 +1,18 @@
+Basic mathematical functions operate element-wise on arrays. 
+They are available both as operator overloads and as functions in the NumPy module.
+
+Task
+
+You are given two integer arrays, A and B of dimensions N X M.
+Your task is to perform the following operations:
+
+Add (A + B)
+Subtract (A - B)
+Multiply (A * B)
+Integer Division (A / B)
+Mod (A % B)
+Power (A ** B)
+
+
+Note
+There is a method numpy.floor_divide() that works like numpy.divide() except it performs a floor division.
