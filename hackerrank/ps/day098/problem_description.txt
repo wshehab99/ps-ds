@@ -1,0 +1,17 @@
+
+sum
+
+The sum tool returns the sum of array elements over a given axis.
+By default, the axis value is None. Therefore, it performs a sum over all the dimensions of the input array.
+
+
+prod
+
+The prod tool returns the product of array elements over a given axis.
+By default, the axis value is None. Therefore, it performs the product over all the dimensions of the input array.
+
+
+Task
+
+You are given a 2-D array with dimensions N X M.
+Your task is to perform the sum tool over axis  and then find the product of that result.
